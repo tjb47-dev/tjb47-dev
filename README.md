@@ -12,3 +12,5 @@ Overall, my broad skill set in web development enables me to take on projects fr
 
 ![tjb47-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=tjb47-dev&hide=stars,prs&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjb47-dev&layout=compact)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tjb47-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tjb47-dev.github.io/portfolio-react/)  
