@@ -26,4 +26,4 @@ I am attending the University of Central Florida for Full Stack Web Development.
 * php
 * .lua
 
-![tjb47-dev github stats](https://github-readme-stats.vercel.app/api?username=tjb47-dev)
+[![tjb47-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=tjb47-dev)](https://github.com/tjb47-dev/github-readme-stats)
